@@ -1,0 +1,423 @@
+# depslib dependency file v1.0
+1493728106 source:c:\users\khayri\documents\mp\sdl\test\case.cpp
+	"Case.h"
+
+1493923343 c:\users\khayri\documents\mp\sdl\test\case.h
+	"Piece.h"
+
+1494755470 c:\users\khayri\documents\mp\sdl\test\piece.h
+	"Deplacement.h"
+	<iostream>
+	<string>
+	<cmath>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1494841273 c:\users\khayri\documents\mp\sdl\test\deplacement.h
+	<iostream>
+	<string>
+	"Position.h"
+
+1494861448 c:\users\khayri\documents\mp\sdl\test\position.h
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"SDL_fonctions.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325824834 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1494999009 c:\users\khayri\documents\mp\sdl\test\sdl_fonctions.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<string>
+
+1494999030 source:c:\users\khayri\documents\mp\sdl\test\cavalier.cpp
+	"Cavalier.h"
+	"Piece.h"
+
+1494321539 c:\users\khayri\documents\mp\sdl\test\cavalier.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494756030 c:\users\khayri\documents\mp\sdl\test\echiquier.h
+	"Deplacement.h"
+	"Matrice.h"
+	"Case.h"
+	"SDL_fonctions.h"
+	<windows.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1494755912 c:\users\khayri\documents\mp\sdl\test\matrice.h
+	"structure_donnee.h"
+	"Case.h"
+
+1494754151 c:\users\khayri\documents\mp\sdl\test\structure_donnee.h
+
+1494841363 source:c:\users\khayri\documents\mp\sdl\test\deplacement.cpp
+	"Deplacement.h"
+
+1494999062 source:c:\users\khayri\documents\mp\sdl\test\echiquier.cpp
+	"Echiquier.h"
+
+1494999088 source:c:\users\khayri\documents\mp\sdl\test\fou.cpp
+	"Fou.h"
+
+1494321539 c:\users\khayri\documents\mp\sdl\test\fou.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494841406 source:c:\users\khayri\documents\mp\sdl\test\homme.cpp
+	"Homme.h"
+
+1494760480 c:\users\khayri\documents\mp\sdl\test\homme.h
+	"Joueur.h"
+
+1494760551 c:\users\khayri\documents\mp\sdl\test\joueur.h
+	"Deplacement.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Cavalier.h"
+	"Tour.h"
+	"Fou.h"
+	"Reine.h"
+	"Roi.h"
+	<iostream>
+
+1494321539 c:\users\khayri\documents\mp\sdl\test\pion.h
+	"Piece.h"
+	"Echiquier.h"
+	<iostream>
+
+1494321548 c:\users\khayri\documents\mp\sdl\test\tour.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494321539 c:\users\khayri\documents\mp\sdl\test\reine.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494321539 c:\users\khayri\documents\mp\sdl\test\roi.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494840562 source:c:\users\khayri\documents\mp\sdl\test\joueur.cpp
+	"Joueur.h"
+
+1494754692 source:c:\users\khayri\documents\mp\sdl\test\liste_pieces.cpp
+	"Liste_pieces.h"
+
+1494755140 c:\users\khayri\documents\mp\sdl\test\liste_pieces.h
+	"structure_donnee.h"
+	"Piece.h"
+	<vector>
+
+1494422481 source:c:\users\khayri\documents\mp\sdl\test\machine.cpp
+	"Machine.h"
+
+1494760436 c:\users\khayri\documents\mp\sdl\test\machine.h
+	"Joueur.h"
+
+1494859837 source:c:\users\khayri\documents\mp\sdl\test\machine_bete.cpp
+	"Machine_bete.h"
+
+1494760436 c:\users\khayri\documents\mp\sdl\test\machine_bete.h
+	"Machine.h"
+	<ctime>
+
+1494867027 source:c:\users\khayri\documents\mp\sdl\test\machine_intel.cpp
+	"Machine_intel.h"
+
+1494760436 c:\users\khayri\documents\mp\sdl\test\machine_intel.h
+	"Machine.h"
+	<string>
+	<ctime>
+
+1494865498 source:c:\users\khayri\documents\mp\sdl\test\machine_intelpp.cpp
+	"Machine_intelpp.h"
+
+1494760436 c:\users\khayri\documents\mp\sdl\test\machine_intelpp.h
+	"Machine.h"
+	<ctime>
+	<vector>
+
+1494859493 source:c:\users\khayri\documents\mp\sdl\test\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string>
+	"Echiquier.h"
+	"Homme.h"
+	"SDL_fonctions.h"
+	"Partie.h"
+	"menu.h"
+
+1454366547 c:\sdl\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1494863685 c:\users\khayri\documents\mp\sdl\test\partie.h
+	"menu.h"
+	"Machine_bete.h"
+	"Machine_intel.h"
+	"Machine_intelpp.h"
+	"Homme.h"
+	"Echiquier.h"
+	"Deplacement.h"
+	<windows.h>
+	<vector>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<iostream>
+	<string>
+	<windows.h>
+
+1494894838 c:\users\khayri\documents\mp\sdl\test\menu.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<iostream>
+	<string>
+	"SDL_fonctions.h"
+	"Homme.h"
+	"Machine_bete.h"
+	"Machine_intel.h"
+	"Machine_intelpp.h"
+	"Partie.h"
+
+1494755566 source:c:\users\khayri\documents\mp\sdl\test\matrice.cpp
+	"Matrice.h"
+
+1494999289 source:c:\users\khayri\documents\mp\sdl\test\menu.cpp
+	"menu.h"
+
+1494999315 source:c:\users\khayri\documents\mp\sdl\test\partie.cpp
+	"Partie.h"
+
+1494804308 source:c:\users\khayri\documents\mp\sdl\test\piece.cpp
+	"Piece.h"
+
+1494999339 source:c:\users\khayri\documents\mp\sdl\test\pion.cpp
+	"Pion.h"
+
+1494861691 source:c:\users\khayri\documents\mp\sdl\test\position.cpp
+	"Position.h"
+
+1494999358 source:c:\users\khayri\documents\mp\sdl\test\reine.cpp
+	"Reine.h"
+
+1494999378 source:c:\users\khayri\documents\mp\sdl\test\roi.cpp
+	"Roi.h"
+
+1494754151 source:c:\users\khayri\documents\mp\sdl\test\structure_donnee.cpp
+	"structure_donnee.h"
+
+1494999398 source:c:\users\khayri\documents\mp\sdl\test\tour.cpp
+	"Tour.h"
+
+1494999625 source:c:\users\khayri\documents\mp\sdl\test\sdl_fonctions.cpp
+	"SDL_fonctions.h"
+
